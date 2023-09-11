@@ -23,7 +23,7 @@ class TableRows extends RecursiveIteratorIterator {
 
 $servername = "localhost";
 $username = "stan";
-$password = "EducomSQL2023";
+$password = "verrukkulluk";
 $dbname = "myDBPDO";
 
 try {
